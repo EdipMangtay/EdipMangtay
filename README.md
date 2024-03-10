@@ -15,7 +15,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/ali edip mangtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali edip mangtay" height="30" width="40" /></a>
+<a href="https:[//linkedin.com/in/ali edip mangtay](https://www.linkedin.com/in/ali-edip-mangtay-7b6b5a223/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali edip mangtay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
