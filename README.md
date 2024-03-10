@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&locale=en" alt="edipmangtay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&" alt="edipmangtay" /></p>
+
+![snake gif](https://github.com/EdipMangtay/EdipMangtay/blob/output/github-contribution-grid-snake.gif)
