@@ -71,19 +71,48 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipmangtay&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite">
+  <img alt="Edip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite" />
+</picture>
 
----
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default">
+  <img alt="Edip's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default" />
+</picture>
+
+</td>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=graywhite">
+  <img alt="Edip's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=graywhite" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=dracula&column=4&margin-w=15&margin-h=15">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=nord&column=4&margin-w=15&margin-h=15">
+  <img alt="Edip's Trophies" src="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=nord&column=4&margin-w=15&margin-h=15" />
+</picture>
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 📚 Current Focus
 
