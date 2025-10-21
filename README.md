@@ -63,17 +63,33 @@
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=dracula&column=7" alt="GitHub Trophies" />
-</div>
 
-<br>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite">
+    <img src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&theme=graywhite">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&theme=graywhite" />
+  </picture>
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=dark-bold">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
