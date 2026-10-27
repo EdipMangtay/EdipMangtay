@@ -1,117 +1,47 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Edip+Mangtay+%F0%9F%91%8B;Software+Engineering;" alt="Typing SVG" /></a>
-</div>
+<img src="assets/header.svg" alt="Edip Mangtay — Software Engineering" width="100%">
 
-<br>
+# Edip Mangtay
 
-<p align="center">
-  <em>
-    I'm a third-year Software Engineering student at İstinye University with a passion for transforming data into intelligent, scalable products. My current focus is a deep dive into the world of **Data Science** and **MLOps**, bridging the gap between building models and deploying them in the real world.
-  </em>
-</p>
+**Software engineering student building toward cloud, backend and data engineering.**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ali-edip-mangtay-7b6b5a223/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-</div>
+I am in the final year of the English-language Software Engineering program at **Istinye University**, with expected graduation in **June 2027**. My projects span Python services, simulation, relational data, machine learning and mobile applications.
 
-<br>
+My current focus is learning how to make systems easier to reproduce, test and operate. I am following the **Google Cloud Associate Cloud Engineer learning path** and **DataCamp's Python development curriculum**. Cloud certification is a learning goal.
 
----
+## Selected engineering work
 
-### 🚀 My Current Learning Roadmap
+**[WareTwin · warehouse coordination laboratory](https://github.com/EdipMangtay/WareHouse)**  
+An active warehouse simulation project with a Python simulation core, FastAPI research sessions, a React/TypeScript interface and a headless experiment runner. It explores zone coordination, shared conveyors, scheduling and congestion. **In development.**
 
-- 🌱 **Foundation Phase:** Mastering Python for Data Science and core Machine Learning principles via **Atıl Samancıoğlu's Udemy Course** & **DataCamp's Associate Data Scientist Track**.
+**[EdgeScope · backend and analytics](https://github.com/EdipMangtay/Trading_Journal)**  
+A trading journal application with FastAPI, SQLAlchemy, PostgreSQL and a Next.js interface. Explore the API, migrations and tests for user isolation, account rules and performance calculations.
 
-- 🏆 **Specialization Phase:** Targeting the **Google Cloud Professional ML Engineer** certification to master MLOps, cloud-native AI, and production-grade model deployment.
+**[Hip Implant Surrogate ML · team project](https://github.com/EdipMangtay/ENS_Project)**  
+A Flask interface and inference pipeline for models trained on engineering simulation data. **My documented contribution:** Flask dashboard, prediction interface and integration. The repository credits the software and mechanical engineering teams. **Academic research prototype.**
 
-- 🛠️ **Application Phase:** Gearing up to build a portfolio of end-to-end projects and test my skills in **Kaggle** competitions.
+**[Campus Lost & Found · Flutter and Firebase](https://github.com/EdipMangtay/Lost_Item_App)**  
+A campus application with Firebase authentication, Firestore repositories, item photos, claims and chat. The feature-based Flutter structure uses Riverpod and generated data models. **Academic application; deployment hardening remains.**
 
----
+**[Liquidity Edge · desktop application](https://github.com/EdipMangtay/Journal)**  
+An offline trading journal with a native Swift macOS application and an Electron Windows application. The repository includes persistence, analytics, backup handling, tests and preview releases.
 
-### 🛠️ My Tech Stack
+**[Concurrent Java Chat · networking fundamentals](https://github.com/EdipMangtay/Java_midterm)**  
+A TCP client/server application using Swing, threads and a shared bounded request buffer. A focused example of producer–consumer coordination and request processing.
 
-* **AI & Machine Learning:**
-    <p align="left">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-        <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-        <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
-    </p>
+## Tools used in my projects
 
-* **Cloud & DevOps:**
-    <p align="left">
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/></a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-    </p>
+- **Python and data:** FastAPI, Flask, pandas, NumPy, scikit-learn and pytest.
+- **Backend and storage:** SQL, SQLAlchemy, PostgreSQL, SQLite and C#/.NET.
+- **Applications:** Flutter/Dart, Firebase, React and TypeScript.
+- **Engineering workflow:** Git, GitHub Actions and Docker configurations.
 
-* **Backend & Databases:**
-    <p align="left">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40"/></a>
-    </p>
+These reflect project experience; cloud operations and MLOps are the next areas I am developing.
 
----
+## Explore my work
 
-### 📊 My GitHub Stats
+Start with **WareTwin** for simulation and system design, **EdgeScope** for backend engineering, and **Hip Implant Surrogate ML** for a team research application. Project READMEs describe setup, implementation boundaries and current limitations.
 
-<div align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+For foundational notebooks and exercises, see **[DataScience](https://github.com/EdipMangtay/DataScience)**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite">
-  <img alt="Edip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edipmangtay&show_icons=true&rank_icon=github&theme=graywhite" />
-</picture>
+[LinkedIn](https://www.linkedin.com/in/ali-edip-mangtay-7b6b5a223/)
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default">
-  <img alt="Edip's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=edipmangtay&theme=default" />
-</picture>
-
-</td>
-<td width="50%" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=graywhite">
-  <img alt="Edip's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=edipmangtay&layout=compact&langs_count=8&theme=graywhite" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=dracula&column=4&margin-w=15&margin-h=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=nord&column=4&margin-w=15&margin-h=15">
-  <img alt="Edip's Trophies" src="https://github-profile-trophy.vercel.app/?username=edipmangtay&theme=nord&column=4&margin-w=15&margin-h=15" />
-</picture>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdipMangtay/EdipMangtay/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdipMangtay/EdipMangtay/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdipMangtay/EdipMangtay/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>

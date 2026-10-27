@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" role="img" aria-labelledby="title desc">
+<title id="title">Edip Mangtay — Software Engineering</title>
+<desc id="desc">A navy banner with restrained cyan connections inspired by software architecture.</desc>
+<rect width="1440" height="320" rx="18" fill="#0d1728"/>
+<path d="M850 80h130v80h135v80h180M850 240h95V120h170V80h180M980 160h220" fill="none" stroke="#24445b" stroke-width="2"/>
+<g fill="#0d1728" stroke="#58c4dc" stroke-width="2">
+<rect x="814" y="62" width="72" height="36" rx="8"/><rect x="814" y="222" width="72" height="36" rx="8"/>
+<rect x="944" y="142" width="72" height="36" rx="8"/><rect x="1079" y="62" width="72" height="36" rx="8"/>
+<rect x="1079" y="222" width="72" height="36" rx="8"/><rect x="1259" y="142" width="72" height="36" rx="8"/>
+</g>
+<path d="M60 72h52" stroke="#58c4dc" stroke-width="4" stroke-linecap="round"/>
+<text x="60" y="148" fill="#f0f5fc" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">Edip Mangtay</text>
+<text x="60" y="197" fill="#aabdd2" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="3">SOFTWARE ENGINEERING</text>
+<text x="60" y="253" fill="#58c4dc" font-family="Arial,Helvetica,sans-serif" font-size="19">Cloud · Backend · Data</text>
+</svg>
+
